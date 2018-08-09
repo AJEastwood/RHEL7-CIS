@@ -1,4 +1,4 @@
-RHEL 7 CIS STIG
+RHEL 7 CIS STIG - Potential Framework for CIS VMware/Oracle/SQL Server benchmarks (backout capabilities?)
 ================
 
 [![Build Status](https://travis-ci.org/MindPointGroup/RHEL7-CIS.svg?branch=devel)](https://travis-ci.org/MindPointGroup/RHEL7-CIS)
